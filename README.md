@@ -5,9 +5,9 @@ This program performs a byte-by-byte encryption/decryption operation on a file.
 - Encryption/decryption of any file based on a keyless, xor cipher.
 
 ## Compilation
-Use the following command to compile the source files: `gcc xor_keyless_cipher.c -o <executable name>`
+Use the following command to compile the source files: `gcc xor_keyless_cipher.c -o <executable name>`.
 
-Arguments for program are as follows: `<executable name> <input file> <output file>`
+Arguments for program are as follows: `<executable name> <input file> <output file>`.
 
 Some .txt files have been provided in repo for testing purposes.
 
