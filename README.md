@@ -9,6 +9,8 @@ Use the following command to compile the source files: `gcc xor_keyless_cipher.c
 
 Arguments for program are as follows: `<executable name> <input file> <output file>`
 
+Some .txt files have been provided in repo for testing purposes.
+
 ## Libraries Used
 - stdio.h
 - stdlib.h
